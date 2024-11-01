@@ -1,10 +1,10 @@
 # Testando Função de Soma com `pytest`
 
-Esta página apresenta uma introdução sobre como realizar testes de software usando casos de teste para a função `soma`. Abordamos classes de equivalência e análise de valor limite, e a prática de criação de testes usando `pytest`.
+Vamos explorar de forma prática como realizar testes de software usando a função `soma`. Você aprenderá a criar casos de teste que ajudam a garantir que essa função, que recebe dois números inteiros e retorna a soma deles, funcione perfeitamente em diferentes situações. Vamos abordar conceitos como classes de equivalência e análise de valor limite, além de colocar a mão na massa com a criação de testes utilizando o framework `pytest`.
 
 ## Explicação de Casos de Teste para a Função `soma`
 
-Vamos definir e explicar os casos de teste essenciais para uma função `soma` que recebe dois valores inteiros e retorna a soma deles. Essa função será testada para diferentes tipos de entradas para garantir que funcione corretamente em diversos cenários.
+Vamos definir e explicar especificações para uma função `soma` que recebe dois valores inteiros e retorna a soma deles. Essa função será testada para diferentes tipos de entradas para garantir que funcione corretamente em diversos cenários.
 
 ### 1. Casos Básicos
 
